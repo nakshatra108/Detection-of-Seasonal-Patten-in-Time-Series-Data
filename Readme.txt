@@ -1,0 +1,1 @@
+Checking the seasonality in the data with the help of SARIMA and ARIMA.
